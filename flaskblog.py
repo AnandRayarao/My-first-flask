@@ -8,7 +8,7 @@ posts  = [
     'author': "Anil",
        'title' : 'Blog Post 1 ',
         'content': 'First Post content',
-         'date_posted': 'April 21,2018'
+         'date_posted': 'April 212018'
 },
 
     {
